@@ -1,0 +1,41 @@
+body
+{    
+    text-align: center; background-color: lightblue;
+}
+
+h1
+{
+    font-family: "Copperplate", Papyrus, fantasy; color: pink; text-shadow: 4px 4px blue; font-size: 100px; 
+}
+
+h2
+{
+    font-family: "Courier New", Courier, monospace; color: blue; text-shadow: 2px 2px pink; font-size: 30px; padding-top: 10px; padding-bottom: 10px;
+}
+
+h3
+{
+     font-family: "Courier New", Courier, monospace; color: red; font-size: 20px; padding-top: 50px;
+}
+
+input[type=text] 
+{
+  background-color: lightpink;
+  color: blue;
+}
+
+input[type=email] 
+{
+  background-color: lightpink;
+  color: blue;
+}
+
+input[type=button], input[type=submit], input[type=reset] 
+{
+  background-color: blue;
+  border: none;
+  color: pink;
+  padding: 16px 32;
+  margin: 4px 2px;
+  cursor: pointer;
+}
